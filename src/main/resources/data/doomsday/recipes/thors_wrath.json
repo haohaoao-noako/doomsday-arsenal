@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [ "LIL", "LSL", " S " ],
+  "key": {
+    "L": { "item": "minecraft:lightning_rod" },
+    "I": { "item": "minecraft:iron_block" },
+    "S": { "item": "minecraft:stick" }
+  },
+  "result": { "item": "doomsday:thors_wrath", "count": 1 }
+}

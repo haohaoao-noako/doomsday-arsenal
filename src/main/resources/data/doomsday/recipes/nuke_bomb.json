@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [ "TIT", "INI", "TIT" ],
+  "key": {
+    "T": { "item": "minecraft:tnt" },
+    "I": { "item": "minecraft:iron_block" },
+    "N": { "item": "minecraft:nether_star" }
+  },
+  "result": { "item": "doomsday:nuke_bomb", "count": 1 }
+}

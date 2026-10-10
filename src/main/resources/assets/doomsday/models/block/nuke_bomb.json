@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "doomsday:block/nuke_bomb_top",
+    "side": "doomsday:block/nuke_bomb_side"
+  }
+}

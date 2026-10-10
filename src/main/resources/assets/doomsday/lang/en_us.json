@@ -1,0 +1,24 @@
+{
+  "itemGroup.doomsday.main": "Doomsday Arsenal",
+
+  "item.doomsday.orbital_strike_designator": "Orbital Strike Designator",
+  "item.doomsday.orbital_strike_designator.tooltip": "Aim at a block and right-click to call a beam from orbit.",
+  "item.doomsday.meteor_caller": "Meteor Caller",
+  "item.doomsday.meteor_caller.tooltip": "Calls down a rain of flaming meteors.",
+  "item.doomsday.thors_wrath": "Thor's Wrath",
+  "item.doomsday.thors_wrath.tooltip": "Summons a thunderstorm of endless lightning.",
+  "item.doomsday.singularity_core": "Singularity Core",
+  "item.doomsday.singularity_core.tooltip": "Spawns a black hole that devours everything, then explodes.",
+  "block.doomsday.nuke_bomb": "Nuclear Bomb",
+  "item.doomsday.nuke_bomb.tooltip": "Light with flint & steel or a redstone signal. 5 seconds. Break it to defuse.",
+
+  "tooltip.doomsday.cooldown": "Cooldown: %s s",
+
+  "message.doomsday.no_target": "No target - look at a block within 128 blocks.",
+  "message.doomsday.orbital": "\u26a0 ORBITAL STRIKE INBOUND \u26a0",
+  "message.doomsday.meteor": "\u2604 METEOR SHOWER INCOMING \u2604",
+  "message.doomsday.thor": "\u26a1 THE STORM HAS COME \u26a1",
+  "message.doomsday.singularity": "\u25cf SINGULARITY DETECTED \u25cf",
+  "message.doomsday.nuke_countdown": "\u2622 NUCLEAR DETONATION IN %s \u2622",
+  "message.doomsday.nuke_defused": "Bomb defused."
+}

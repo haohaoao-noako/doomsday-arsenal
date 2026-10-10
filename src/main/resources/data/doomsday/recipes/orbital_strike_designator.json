@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [ "ERE", "INI", "IBI" ],
+  "key": {
+    "E": { "item": "minecraft:ender_eye" },
+    "R": { "item": "minecraft:redstone_block" },
+    "I": { "item": "minecraft:iron_ingot" },
+    "N": { "item": "minecraft:nether_star" },
+    "B": { "item": "minecraft:beacon" }
+  },
+  "result": { "item": "doomsday:orbital_strike_designator", "count": 1 }
+}
